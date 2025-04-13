@@ -28,7 +28,7 @@ SoulMate.AGI functions as a lifelong evolving AI companion. Throughout the day, 
 ## INPUT TO THE SOULMATE.AGI
 ![It is the input to the soulmate.agi](https://github.com/pavankalyanakkala123/SOULMATE.AGI/blob/main/User%20input.jpg)
 
-##OUTPUT GIVEN BY SOULMATE.AGI
+## OUTPUT GIVEN BY SOULMATE.AGI
 ![It is the output give by the soulmate.agi](https://github.com/pavankalyanakkala123/SOULMATE.AGI/blob/main/SOULMATE.AGI%20Respond.jpg)
 
 
