@@ -25,9 +25,10 @@ Tech Stack:
 ## Project Explanation
 SoulMate.AGI functions as a lifelong evolving AI companion. Throughout the day, users interact with the system via conversations or journaling. Every night, the model undergoes training on collected data to enhance emotional intelligence and memory. It uses facial sentiment detection, emotional journaling, and memory recall to offer therapeutic insights. Over time, it forms a long-term memory vault and adapts its tone and responses to match the user’s mood, preferences, and personal growth needs. The final goal is to make AI feel human by aligning it deeply with individual users.
 
-
+## INPUT TO THE SOULMATE.AGI
 ![It is the input to the soulmate.agi](https://github.com/pavankalyanakkala123/SOULMATE.AGI/blob/main/User%20input.jpg)
 
+##OUTPUT GIVEN BY SOULMATE.AGI
 ![It is the output give by the soulmate.agi](https://github.com/pavankalyanakkala123/SOULMATE.AGI/blob/main/SOULMATE.AGI%20Respond.jpg)
 
 
